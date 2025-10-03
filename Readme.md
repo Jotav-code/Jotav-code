@@ -81,14 +81,14 @@ Me chamo João Vitor Soares Bispo, tenho 20 anos e sou natural de Sergipe. Faço
 
 <p style="display: grid; grid-template-column: 1fr 1fr">
   <img 
-    align="left" 
-    style="height: 250px"
+    align="left"
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=Jotav-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&line_height=27" 
   />
 
 <img 
       align="left" 
+      style="height: 200px"
       alt="GitHub Stats" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotav-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&line_height=27" 
   />
