@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo João Vitor Soares Bispo, tenho 20 anos
+Me chamo João Vitor Soares Bispo, tenho 20 anos e sou natural de Sergipe. Faço engenharia de computação na Universidade Federal de Sergipe. Sou apaixonado por tecnologia, conheça mais sobre o meu trabalho no meu linkedin -> "[João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-bispo/)".
 
 ---
 
@@ -79,7 +79,7 @@ Me chamo João Vitor Soares Bispo, tenho 20 anos
 
 ### 📊 Estatísticas
 
-<p>
+<p >
   <img 
     align="left" 
     alt="GitHub Stats" 
