@@ -77,6 +77,7 @@ Me chamo João Vitor Soares Bispo, tenho 20 anos e sou natural de Sergipe. Faço
 <br/>
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -93,6 +94,7 @@ Me chamo João Vitor Soares Bispo, tenho 20 anos e sou natural de Sergipe. Faço
   />
 
 </p>
+-->
 
 <br/>
 <br/>
